@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**ErickCS87/ErickCS87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ola Eu sou Erick Correa 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![ErickCS87 GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickCS87&show_icons=true&theme=dracula)
+
+## Tecnologias que uso no meu dia
+
+<div style="display: inline_block"><br/>
+<img  align="center" alt="html" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img  align="center" alt="html" src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img  align="center" alt="html" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div><br/>
+                                                                                                                                       Estou iniciando na area de programção.
